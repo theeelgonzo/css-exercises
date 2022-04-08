@@ -1,0 +1,19 @@
+.dough {
+	background-color: #ff007f;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#re {
+	color: #0000ff;
+	font-size: 36px;
+}
+
+#mi {
+	font-size: 24px;
+}
+
+#fa {
+	background-color: #90ee90;
+	font-size: 24px;
+	font-weight: bold;
+}
