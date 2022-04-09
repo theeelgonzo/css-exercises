@@ -1,0 +1,14 @@
+.dough,
+.ray {
+	font-size: 28px;
+	font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+.dough {
+	background-color: black;
+	color: white;
+}
+
+.ray {
+	background-color: yellow;
+}
